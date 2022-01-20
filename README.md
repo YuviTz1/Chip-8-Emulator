@@ -51,3 +51,9 @@ Run:
 ```
 ./CHIP-8_Emulator <delay> <pathToROM>
 ```
+
+## References 
+- [https://github.com/tobiasvl/awesome-chip-8](https://github.com/tobiasvl/awesome-chip-8)
+- [https://austinmorlan.com/posts/chip8_emulator/](https://austinmorlan.com/posts/chip8_emulator/)
+- [http://devernay.free.fr/hacks/chip8/C8TECH10.HTM](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
+- [https://en.wikipedia.org/wiki/CHIP-8](https://en.wikipedia.org/wiki/CHIP-8)
